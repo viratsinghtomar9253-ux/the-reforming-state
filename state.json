@@ -1,6 +1,6 @@
 {
     "settings": {
-        "love_language": "Words of Affirmation"
+        "love_language": "Acts of Service"
     },
     "messages": [
         {
@@ -47,6 +47,24 @@
             "conflict_score": 80,
             "hidden_need": "validation",
             "peace_offering": "Let's take some time to appreciate each other, I'd love to hear what you value most about our relationship and what I do that makes you feel special."
+        },
+        {
+            "timestamp": "2026-02-14T15:38:07.244345",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+916398306984",
+            "reframed_text": "[Mock Reframed]: I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "conflict_score": 50,
+            "hidden_need": "To be heard",
+            "peace_offering": "Share a quiet moment together."
+        },
+        {
+            "timestamp": "2026-02-14T15:44:35.576518",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+916398306984",
+            "reframed_text": "I feel hurt when I think about the time, trust, and effort I gave, and I wish it was valued more",
+            "conflict_score": 80,
+            "hidden_need": "validation and appreciation",
+            "peace_offering": "Let's hold hands and talk about what we can do to make each other feel more appreciated and valued"
         }
     ]
 }
