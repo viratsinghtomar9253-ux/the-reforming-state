@@ -1,0 +1,8 @@
+flask
+streamlit
+plotly
+groq
+python-dotenv
+twilio
+pandas
+numpy

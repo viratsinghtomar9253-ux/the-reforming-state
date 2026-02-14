@@ -1,0 +1,52 @@
+{
+    "settings": {
+        "love_language": "Words of Affirmation"
+    },
+    "messages": [
+        {
+            "timestamp": "2026-02-14T13:01:30.747960",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+917565960168",
+            "reframed_text": "I'm feeling overwhelmed and need a moment.",
+            "conflict_score": 75,
+            "hidden_need": "Emotional safety",
+            "peace_offering": "Take a deep breath and ask for a hug."
+        },
+        {
+            "timestamp": "2026-02-14T13:01:43.800686",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+917565960168",
+            "reframed_text": "I'm feeling overwhelmed and need a moment.",
+            "conflict_score": 75,
+            "hidden_need": "Emotional safety",
+            "peace_offering": "Take a deep breath and ask for a hug."
+        },
+        {
+            "timestamp": "2026-02-14T13:04:37.902864",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+917565960168",
+            "reframed_text": "I feel hurt when I give my time, trust, and effort, and it seems like it's not valued. I wish you could show me that you appreciate my contributions.",
+            "conflict_score": 80,
+            "hidden_need": "validation",
+            "peace_offering": "Let's work together to prepare dinner tonight and I'd love it if you could help me with the household chores this week, it would make me feel seen and appreciated."
+        },
+        {
+            "timestamp": "2026-02-14T13:05:12.045181",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+917565960168",
+            "reframed_text": "I feel hurt when I give you my time, trust, and effort, and it doesn't seem to be valued. I wish we could find ways to show each other that our contributions matter.",
+            "conflict_score": 70,
+            "hidden_need": "validation and appreciation",
+            "peace_offering": "Let's take a walk together, holding hands, and talk about what we appreciate about each other."
+        },
+        {
+            "timestamp": "2026-02-14T13:08:40.157860",
+            "original_text": "I gave you my time, trust, and effort. You treated it like it meant nothing",
+            "sender": "whatsapp:+917565960168",
+            "reframed_text": "I feel hurt when I think about the time, trust, and effort I've given to our relationship, and I wish it felt more valued and appreciated by you.",
+            "conflict_score": 80,
+            "hidden_need": "validation",
+            "peace_offering": "Let's take some time to appreciate each other, I'd love to hear what you value most about our relationship and what I do that makes you feel special."
+        }
+    ]
+}
